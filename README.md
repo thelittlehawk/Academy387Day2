@@ -1,2 +1,6 @@
-Academy387 Day 2 XCode project
-==============================
+Academy387
+==============
+
+Course: First App in 10 Days
+
+http://www.academy387.com/
